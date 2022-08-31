@@ -1,3 +1,7 @@
+LinkedIn Learning
+
+Course
+
 # Advanced-NLP-with-Python-for-Machine-Learning
 by: Derek Jedamski
 
